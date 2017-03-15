@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LevelManager>
+  <DefaultMapSize Width="30" Height="30" />
+  <DefaultTileSetSize Width="4" Height="2" />
+  <DefaultTileSize Width="64" Height="64" />
+  <SupplementalInfo />
+  <Levels>
+    <Level>
+      <MapSize Width="30" Height="30" />
+      <TileSetSize Width="4" Height="2" />
+      <TileSize Width="64" Height="64" />
+      <SelectedTile X="0" Y="0" />
+      <FileName>Default</FileName>
+      <Name>Default</Name>
+      <TransparencyRange Enabled="false">
+        <LowColor>
+          <Red>0</Red>
+          <Green>0</Green>
+          <Blue>0</Blue>
+        </LowColor>
+        <HighColor>
+          <Red>0</Red>
+          <Green>0</Green>
+          <Blue>0</Blue>
+        </HighColor>
+      </TransparencyRange>
+      <SupplementalInfo />
+      <Map X="30" Y="30">
+        <Row>  | 4| 4| 4| 4| 4| 4| 4|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  | 4|12|12|12|12|12| 4|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  | 4|12| 0| 0| 0|12| 4|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  | 4|12| 0| 0| 0|12| 4|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  | 4|12| 0| 0| 0|12| 4|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  | 4|12|12|12|12|12| 4|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  | 4| 4| 4| 4| 4| 4| 4|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+        <Row>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  </Row>
+      </Map>
+    </Level>
+  </Levels>
+</LevelManager>
